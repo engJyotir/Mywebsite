@@ -1,0 +1,36 @@
+[
+    {
+      "role": "Software Developer - Frontend",
+      "organisation": "Falabella",
+      "startDate": "July, 2023",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "Worked on adding features such as adding bags to the cart, searching customer RUT, authorizing bags before the purchase, applying employee discounts etc using React to the self checkout machines.", 
+        "Maintained SCOs already in production using remote desktop software and worked on analyzing realtime production incidents"
+    ],
+      "imageSrc": "history/falabella.png"
+    },
+    {
+      "role": "Software Developer in Testing",
+      "organisation": "Falabella",
+      "startDate": "Aug, 2022",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Automated functional, component and end to end testing processes for Tottus Peru and Sodimac Peru using Cypress framework.", 
+        "Managed rollouts of different stores for Falabella BU, successfully coordinating almost 9 stores and 70+ registers, ensuring smooth deployment and operation",
+        "Monitored logs of what happens in the stores using GCP platform and worked on enhancing user experience."
+    ],
+      "imageSrc": "history/falabella.png"
+    },
+    {
+      "role": "Software Development Intern",
+      "organisation": "Falabella",
+      "startDate": "Jan, 2022",
+      "endDate": "July, 2022",
+      "experiences": [
+        "Developed a feature to display prices with promotions on Self Checkout Machines across Falabella stores, improving customer experience and checkout efficiency",
+        "Created APIs and endpoints using JavaScript’s NodeJS framework and PostgreSQL database, enhancing data retrieval and system integration for store applications"
+      ],
+      "imageSrc": "history/falabella.png"
+    }
+  ]

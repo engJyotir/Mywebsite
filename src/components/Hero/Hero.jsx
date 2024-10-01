@@ -6,10 +6,9 @@ export const Hero = () => {
     return (
         <section className={styles.container}>
         <div className={styles.content}>
-          <h1 className={styles.title}>Hi, I'm Jyotiraditya</h1>
+          <h1 className={styles.title}>Welcome to my Portfolio </h1>
           <p className={styles.description}>
-            I'm a full-stack developer with 5 years of experience using React and
-            NodeJS. Reach out if you'd like to learn more!
+            Hi welcome here this is a beta version, we will soon add more features to this portfolio, till then it is what it is.
           </p>
           <a href="mailto:jyotiraditya03@email.com" className={styles.contactBtn}>
             Contact Me
